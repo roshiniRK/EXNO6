@@ -19,8 +19,8 @@ Step 6: Implement Advanced data Visualization for the columns necessary.
 
 
 # CODING AND SCREENSHOTS:
-### NAME : MAMTHA I
-### REG NO : 212222230076
+### NAME : Roshini R.K
+### REG NO : 212222230123
 
 ```c
 import seaborn as sns
